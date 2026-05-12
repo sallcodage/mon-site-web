@@ -8,4 +8,4 @@ Projet simple réalisé avec HTML et CSS.
 - README.md
 
 ## Auteur
-Votre nom
+Khady Sall
