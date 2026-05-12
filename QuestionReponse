@@ -1,0 +1,11 @@
+Questions de TP
+Quelle est la différence entre Git et GitHub 
+       Git est outil qui permet de sauvegarder et suivre les modifications d’un projet alors que github    est une plateforme en ligne qui permet d’héberger et partager les projets Git
+À quoi sert la commande git init ?
+   La commande git init sert à créer un dépôt git dans un projet pour commencer le suivi des fichiers
+Quelle commande permet d’envoyer un projet sur GitHub ?
+  La commande qui permet d’envoyer un projet sur c’est « git push origin main »
+Pourquoi utilise-t-on les branches ?
+  Les branches permettent de travailler sur une nouvelle fonctionnalité sans modifier le projet principal
+Quelle commande permet de voir l’historique des commit ?
+   La commande qui permet de voir l’historique des fichiers c’est « git log »
